@@ -35,6 +35,4 @@ elif a >= 60 and a < 80:
     print('B')
 elif a >= 80 and a < 100:
     print('A')
-else:
-    print('Not correct marks')
-    
+
